@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # bmiapp
 
 A new Flutter project.
@@ -14,3 +15,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# BMI_App
+Flutter BMI app: Calculates BMI, stores individual records on Firebase.
+>>>>>>> 5fc309b5f38504a0117ecab4d387c877b573f1b1
