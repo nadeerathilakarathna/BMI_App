@@ -5,7 +5,7 @@
 
 Welcome to the BMI Calculator App, a simple yet powerful tool for tracking and managing Body Mass Index (BMI). This app, developed using **Flutter** and **Firebase** technologies, allows users to effortlessly calculate and monitor BMI values.
 
-![](screenshots/app.png)
+![](screenshots/appimg.png)
 
 ## Features
 
