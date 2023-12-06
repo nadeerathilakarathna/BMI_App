@@ -25,3 +25,32 @@ doc/api/
 
 .flutter-plugins
 .flutter-plugins-dependencies
+
+
+# Flutter specific
+*.iml
+*.metadata
+*.gradle
+build/
+.idea/
+.android/
+ios/Pods/
+android/build/
+ios/Flutter/Flutter.framework/
+
+# Dart
+.dart_tool/
+.pub/
+build/
+
+# VS Code
+.vscode/
+.history/
+
+# macOS
+.DS_Store
+
+# Flutter IntelliJ
+.flutter-plugins
+.flutter-plugins-dependencies
+
