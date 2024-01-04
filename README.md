@@ -17,6 +17,6 @@ Welcome to the BMI Calculator App, a simple yet powerful tool for tracking and m
 
 
 ## License <a id="license"></a>
-This project distributed under the GPL V2 license. When you make changes the source code, you must give the permission for owner and give the credits to the authorized owner.
+This software is distributed under the terms of the GNU General Public License version 2 (GPLv2). Users are granted the freedom to modify the source code, subject to compliance with GPLv2 stipulations. These requirements encompass the sharing of any distributed modifications' source code under the GPLv2, the preservation of original copyright notices, the proper crediting of authors, and the refraining from imposing additional restrictions on the software.
 
 
